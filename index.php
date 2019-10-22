@@ -72,7 +72,7 @@
 				<ul class="nav navbar-nav navbar-right main-nav">
 					<li><a href="#intro">Home</a></li>
 					<li><a href="https://www.google.com/maps/">Location</a></li>
-					<li><a href="#team">Weather</a></li>
+					<li><a href="https://www.accuweather.com/en/us/google-ca/94043/weather-forecast/74907_poi">Weather</a></li>
 					<li><a href="theriver/index.html">Booking</a></li>
 					<li><a href="#OtherService">Services</a></li>
 					<li><a href="#" data-toggle="modal" data-target="#modal2" class="btn btn-blue">Log In</a></li>
